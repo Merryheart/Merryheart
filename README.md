@@ -3,7 +3,7 @@
 ### Health Data Analyst · Public Health · Nigeria
 
 I turn complex health system data into evidence that drives decisions across HIV/TB programs, immunization, maternal and child health, and M&E. My work sits where epidemiology meets analytics: cleaning messy facility-level data, building pipelines, running models, and designing dashboards that program teams actually use.
-I don't just analyze data — I understand what it represents. Real patients. Real outcomes. That context is what separates a good chart from a useful one.
+I don't just analyze data, I understand what it represents. Real patients. Real outcomes. That context is what separates a good chart from a useful one.
 
 ---
 ## 🛠️ Skills
