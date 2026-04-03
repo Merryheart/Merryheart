@@ -47,7 +47,7 @@ I don't just analyze data, I understand what it represents. Real patients. Real 
 | Project | Description | Tools |
 |---|---|---|
 | [KNCV Nigeria TB Analysis](https://github.com/Merryheart/kncv-nigeria-tb-analysis) | End-to-end TB patient journey analysis with predictive modeling and Power BI dashboard | Python · scikit-learn · Power BI |
-| [Nigeria Pharma Supply Chain](https://github.com/Merryheart/nigeria-pharma-supply-chain) | Supply chain analytics tracking stock availability and distribution gaps across Nigeria | Python · Power BI |
+| [Nigeria Pharma Supply Chain](https://github.com/Merryheart/nigeria-pharma-supply-chain) | Supply chain analytics tracking stock availability and distribution gaps across Nigeria | Python · Power BI . Excel |
 
 ---
 
