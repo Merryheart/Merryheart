@@ -1,4 +1,5 @@
-# Hi, I'm Merryheart 👋🏾
+![Hi, I'm Merryheart](animated.svg)
+
 
 ### Health Data Analyst · Public Health · Nigeria
 
