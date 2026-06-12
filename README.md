@@ -1,4 +1,4 @@
-![Hi, I'm Merryheart](animated.svg)
+[![Typing SVG](https://demolab.com?font=Courier+New&weight=700&size=24&pause=1000&color=58a6ff&vCenter=true&width=435&lines=Hi%2C+I'm+Merryheart)](https://github.com)
 
 
 ### Health Data Analyst · Public Health · Nigeria
