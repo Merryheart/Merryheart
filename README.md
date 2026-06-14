@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Merryheart+%F0%9F%91%8B;Welcome+to+my+GitHub!" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
+</p>
+
 ### Health Data Analyst · Public Health · Nigeria
 
 I turn complex health system data into evidence that drives decisions across HIV/TB programs, immunization, maternal and child health, and M&E. My work sits where epidemiology meets analytics: cleaning messy facility-level data, building pipelines, running models, and designing dashboards that program teams actually use.
