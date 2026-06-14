@@ -1,4 +1,6 @@
-### Hi, I'm Merryheart👋🏽
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Merryheart+%F0%9F%91%8B;Welcome+to+my+GitHub!" />
+</p>
 
 ### Health Data Analyst · Public Health · Nigeria
 
