@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Merryheart&show_icons=true&theme=rose_pine" />
 </p>
 
 ### Health Data Analyst · Public Health · Nigeria
