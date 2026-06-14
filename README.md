@@ -1,7 +1,8 @@
 <p align="center">
-  Hi, I'm Merryheart 
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Merryheart+%F0%9F%96%A4" />
+  <br>
+  Hi, I'm Merryheart 🖤
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="25">
 </p>
 
 ### Health Data Analyst · Public Health · Nigeria
