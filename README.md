@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Merryheart+%F0%9F%91%8B;Welcome+to+my+GitHub!" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merryheart&show_icons=true&theme=rose_pine" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Merryheart+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%A4%8E" />
 </p>
 
 ### Health Data Analyst · Public Health · Nigeria
